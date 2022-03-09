@@ -1,6 +1,6 @@
 # Food Roulette
 
-### Project Description
+### Project Description:
 A very simple program that can decide a user's food choice.
 
 #### View the project live here: [Food Roulette](https://norblit.com/food_roulette/)
